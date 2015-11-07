@@ -8,7 +8,6 @@
 | :white_medium_square: | [Can Programming Be Liberated from the von Neumann Style? A Functional Style and Its Algebra of Programs](https://www.cs.cmu.edu/~crary/819-f09/Backus78.pdf) |
 | :white_square_button: | [Why Functional Programming Matters by J. Hughes](http://comjnl.oxfordjournals.org/content/32/2/98.full.pdf) |
 | :white_medium_square: | [The essence of functional programming  by Philip Wadler](https://wiki.ittc.ku.edu/lambda/images/1/12/Wadler_-_The_essence_of_functional_programming_(1992).pdf) |
-| :white_square_button: | [Propositions as Types by Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf) |
 
 
 ## A bit of history
@@ -18,6 +17,7 @@
 | :white_medium_square: | [Some History of Functional Programming Languages by D. A. Turner](https://www.cs.kent.ac.uk/people/staff/dat/tfp12/tfp12.pdf) |
 | :white_medium_square: | [The Conception, Evolution, and Application of Functional Programming Languages by Paul Hudak](http://haskell.cs.yale.edu/wp-content/uploads/2011/01/cs.pdf) |
 | :white_medium_square: | [History of Lambda-calculus and Combinatory Logic by Felice Cardone and J. Roger Hindley](http://www.users.waitrose.com/~hindley/SomePapers_PDFs/2006CarHin,HistlamRp.pdf) |
+| :white_square_button: | [Propositions as Types by Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf) |
 
 
 ## Monads, monads everywhere
@@ -37,11 +37,17 @@
 | :white_medium_square: | [Adaptive Lock-Free Maps: Purely-Functional to Scalable by Ryan R. Newton Peter P. Fogg Ali Varamesh](http://dl.acm.org/citation.cfm?id=2784734111) |
 | :white_medium_square: | [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire by Erik Meijer Maarten, Fokkinga and Ross Paterson](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf) |
 | :white_medium_square: | [Adaptive lock-free maps: purely-functional to scalable](http://dl.acm.org/citation.cfm?id=2784734) |
+| :white_square_button: | [Recursive types for free! by Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/papers/free-rectypes/free-rectypes.txt) |
+
+
 
 # Haskell
 |         | Paper           |
 | ---- | ------------- | ---------------------  |
 | :white_medium_square: | [A Gentle Introduction to Haskell by Paul Hudak, John Peterson and Joseph Fasel](https://www.haskell.org/tutorial/haskell-98-tutorial.pdf) |
+| :white_medium_square: | [A History of Haskell:
+Being Lazy With Class](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/history.pdf) |
+
 
 
 
@@ -49,11 +55,6 @@
 |         | Paper           |
 | ---- | ------------- | ---------------------  |
 | :white_medium_square: | [Comparison of Erlang Runtime System and Java Virtual Machine](http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf) |
-
-# Other
-|         | Paper           |
-| ---- | ------------- | ---------------------  |
-| :white_medium_square: | [Propositions as Types by Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf) |
 
 
 
