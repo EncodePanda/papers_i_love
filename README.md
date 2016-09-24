@@ -63,5 +63,11 @@
 | ---- | ------------- | ---------------------  |
 | :white_medium_square: | [Comparison of Erlang Runtime System and Java Virtual Machine](http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf) |
 
+# Other
+
+http://www.math.harvard.edu/~mazur/preprints/when_is_one.pdf
+https://arxiv.org/pdf/1601.05035v3.pdf
+
+
 
 
