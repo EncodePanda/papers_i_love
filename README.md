@@ -18,14 +18,23 @@
 | :white_medium_square: | [The Conception, Evolution, and Application of Functional Programming Languages by Paul Hudak](http://haskell.cs.yale.edu/wp-content/uploads/2011/01/cs.pdf) |
 | :white_medium_square: | [History of Lambda-calculus and Combinatory Logic by Felice Cardone and J. Roger Hindley](http://www.users.waitrose.com/~hindley/SomePapers_PDFs/2006CarHin,HistlamRp.pdf) |
 | :white_square_button: | [Propositions as Types by Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf) |
+| :white_medium_square: | []() |
+
+ 
+## Recursion schemas
+
+|         | Paper           |
+| ---- | ------------- | ---------------------  |
+| :white_medium_square: | [Monads for functional programming by Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf) |
+| :white_medium_square: | [Monad Transformers Step by Step](http://www.cs.virginia.edu/~wh5a/personal/Transformers.pdf) |
 
 
 ## Monads, monads everywhere
 
 |         | Paper           |
 | ---- | ------------- | ---------------------  |
-| :white_medium_square: | [Monads for functional programming by Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf) |
-| :white_medium_square: | [Monad Transformers Step by Step](http://www.cs.virginia.edu/~wh5a/personal/Transformers.pdf) |
+| :white_medium_square: | [Recursion Schemas from Comonads by Tarmo Uustalu](http://cs.ioc.ee/~tarmo/papers/nwpt00-njc.pdf) |
+| :white_medium_square: | [Unifying Structured Recursion Schemes by Ralf Hinze, Nicolas Wu and Jeremy Gibbons](http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/urs.pdf) |
 
 ## Other
 
@@ -37,8 +46,8 @@
 | :white_medium_square: | [Adaptive Lock-Free Maps: Purely-Functional to Scalable by Ryan R. Newton Peter P. Fogg Ali Varamesh](http://dl.acm.org/citation.cfm?id=2784734111) |
 | :white_medium_square: | [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire by Erik Meijer Maarten, Fokkinga and Ross Paterson](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf) |
 | :white_medium_square: | [Adaptive lock-free maps: purely-functional to scalable](http://dl.acm.org/citation.cfm?id=2784734) |
-| :white_square_button: | [Recursive types for free! by Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/papers/free-rectypes/free-rectypes.txt) |
-
+| :white_square_button: | [Recursive types for free! by Philip | Wadler](http://homepages.inf.ed.ac.uk/wadler/papers/free-rectypes/free-rectypes.txt) |
+| :white_medium_square: | [Theroems for free! by Philip Wadler](http://ttic.uchicago.edu/~dreyer/course/papers/wadler.pdf) |
 
 
 # Haskell
