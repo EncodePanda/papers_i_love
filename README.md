@@ -20,15 +20,16 @@
 | :white_square_button: | [Propositions as Types by Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf) |
 
  
-## Recursion schemas
+## Monads, monads everywhere
 
 |         | Paper           |
 | ---- | ------------- | ---------------------  |
-| :white_medium_square: | [Recursion Schemas from Comonads by Tarmo Uustalu](http://cs.ioc.ee/~tarmo/papers/nwpt00-njc.pdf) |
+| :white_medium_square: | [Monads for functional programming by Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf) |
+| :white_medium_square: | [Monad Transformers Step by Step](http://www.cs.virginia.edu/~wh5a/personal/Transformers.pdf) |
 
 
-## Monads, monads everywhere
-
+## Recursion schemas
+ 
 |         | Paper           |
 | ---- | ------------- | ---------------------  |
 | :white_medium_square: | [Recursion Schemas from Comonads by Tarmo Uustalu](http://cs.ioc.ee/~tarmo/papers/nwpt00-njc.pdf) |
