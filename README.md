@@ -34,6 +34,7 @@
 | ---- | ------------- | ---------------------  |
 | :white_medium_square: | [Recursion Schemas from Comonads by Tarmo Uustalu](http://cs.ioc.ee/~tarmo/papers/nwpt00-njc.pdf) |
 | :white_medium_square: | [Unifying Structured Recursion Schemes by Ralf Hinze, Nicolas Wu and Jeremy Gibbons](http://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/urs.pdf) |
+| :white_medium_square: | [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire by Erik Meijer Maarten, Fokkinga and Ross Paterson](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf) |
 
 ## Other
 
@@ -43,9 +44,8 @@
 | :white_medium_square: | [Program Design by Calculation by J.N.Oliviera (draft)](http://www4.di.uminho.pt/~jno/ps/pdbc_part.pdf) |
 | :white_medium_square: | [A Tutorial Implementation of a Dependently Typed Lambda Calculus](http://www.andres-loeh.de/LambdaPi/) |
 | :white_medium_square: | [Adaptive Lock-Free Maps: Purely-Functional to Scalable by Ryan R. Newton Peter P. Fogg Ali Varamesh](http://dl.acm.org/citation.cfm?id=2784734111) |
-| :white_medium_square: | [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire by Erik Meijer Maarten, Fokkinga and Ross Paterson](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf) |
 | :white_medium_square: | [Adaptive lock-free maps: purely-functional to scalable](http://dl.acm.org/citation.cfm?id=2784734) |
-| :white_square_button: | [Recursive types for free! by Philip | Wadler](http://homepages.inf.ed.ac.uk/wadler/papers/free-rectypes/free-rectypes.txt) |
+| :white_square_button: | [Recursive types for free! by Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/papers/free-rectypes/free-rectypes.txt) |
 | :white_medium_square: | [Theroems for free! by Philip Wadler](http://ttic.uchicago.edu/~dreyer/course/papers/wadler.pdf) |
 
 
