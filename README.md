@@ -46,7 +46,7 @@
 |         | Paper           |
 | ---- | ------------- | ---------------------  |
 | :white_medium_square: | [Purely Functional Data Structures by Chris Okasaki](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) |
-| :white_medium_square: | [Program Design by Calculation by J.N.Oliviera (draft)](http://www4.di.uminho.pt/~jno/ps/pdbc_part.pdf) |
+| :white_medium_square: | [Program Design by Calculation by J.N.Oliveira (draft)](http://www4.di.uminho.pt/~jno/ps/pdbc.pdf) |
 | :white_medium_square: | [A Tutorial Implementation of a Dependently Typed Lambda Calculus](http://www.andres-loeh.de/LambdaPi/) |
 | :white_medium_square: | [Adaptive Lock-Free Maps: Purely-Functional to Scalable by Ryan R. Newton Peter P. Fogg Ali Varamesh](http://dl.acm.org/citation.cfm?id=2784734111) |
 | :white_medium_square: | [Adaptive lock-free maps: purely-functional to scalable](http://dl.acm.org/citation.cfm?id=2784734) |
