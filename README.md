@@ -29,6 +29,7 @@
 |         | Paper           |
 | ---- | ------------- | ---------------------  |
 | :white_medium_square: | [Elementary Strong Functional Programming by D. A. Turner](https://www.cs.kent.ac.uk/people/staff/dat/esfp/fple.pdf) |
+| :white_medium_square: | [A Tutorial Implementation of a Dependently Typed Lambda Calculus](http://www.andres-loeh.de/LambdaPi/) |
  
 ## Monads, monads everywhere
 
@@ -52,7 +53,6 @@
 | ---- | ------------- | ---------------------  |
 | :white_medium_square: | [Purely Functional Data Structures by Chris Okasaki](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) |
 | :white_medium_square: | [Program Design by Calculation by J.N.Oliveira (draft)](http://www4.di.uminho.pt/~jno/ps/pdbc.pdf) |
-| :white_medium_square: | [A Tutorial Implementation of a Dependently Typed Lambda Calculus](http://www.andres-loeh.de/LambdaPi/) |
 | :white_medium_square: | [Adaptive Lock-Free Maps: Purely-Functional to Scalable by Ryan R. Newton Peter P. Fogg Ali Varamesh](http://dl.acm.org/citation.cfm?id=2784734111) |
 | :white_medium_square: | [Adaptive lock-free maps: purely-functional to scalable](http://dl.acm.org/citation.cfm?id=2784734) |
 | :white_square_button: | [Recursive types for free! by Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/papers/free-rectypes/free-rectypes.txt) |
