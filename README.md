@@ -24,6 +24,11 @@
 | :white_medium_square: | [History of Lambda-calculus and Combinatory Logic by Felice Cardone and J. Roger Hindley](http://www.users.waitrose.com/~hindley/SomePapers_PDFs/2006CarHin,HistlamRp.pdf) |
 | :white_square_button: | [Propositions as Types by Philip Wadler](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf) |
 
+## Strong Functional Programming
+
+|         | Paper           |
+| ---- | ------------- | ---------------------  |
+| :white_medium_square: | [Elementary Strong Functional Programming by D. A. Turner](https://www.cs.kent.ac.uk/people/staff/dat/esfp/fple.pdf) |
  
 ## Monads, monads everywhere
 
