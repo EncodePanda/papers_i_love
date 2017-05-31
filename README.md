@@ -61,7 +61,7 @@
 
 # Haskell
 |         | Paper           |
-| ---- | ------------- | ---------------------  |
+| ---- | ------------- |
 | :white_medium_square: | [A Gentle Introduction to Haskell by Paul Hudak, John Peterson and Joseph Fasel](https://www.haskell.org/tutorial/haskell-98-tutorial.pdf) |
 | :white_medium_square: | [A History of Haskell: Being Lazy With Class](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/history.pdf) |
 
